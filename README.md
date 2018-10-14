@@ -1,2 +1,3 @@
 # Analysis-scripts
-Just another repository
+Some scripts of data Analysis
+Including some scripts of RNA-seq and ATAC-seq data analysis
